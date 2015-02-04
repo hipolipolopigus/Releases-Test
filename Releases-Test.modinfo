@@ -1,0 +1,10 @@
+{
+  "name": "Releases Test",
+  "path": ".",
+  "dependencies": [
+    "Sample Dependency"
+  ],
+  "metadata":{
+    "version": "0.0.1"
+  }
+}
